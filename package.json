@@ -1,0 +1,22 @@
+{
+  "name": "victim-app",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "evil-package": "git+https://github.com/No1zy/evil-package.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/No1zy/victim-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/No1zy/victim-app/issues"
+  },
+  "homepage": "https://github.com/No1zy/ok#readme"
+}
